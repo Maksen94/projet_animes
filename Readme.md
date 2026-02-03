@@ -18,7 +18,7 @@ Le projet suit une démarche de Data Science structurée :
 
 ## 📈 Résultats Clés
 * **Validation des Hypothèses** : L'analyse démontre que la note globale seule est insuffisante car elle ne reflète pas la régularité de l'œuvre.
-* **Distribution** : Une segmentation claire permettant d'isoler les "Chefs-d'œuvre" (comme *Frieren* ou *Steins;Gate*) pour une mise en avant prioritaire.
+* **Distribution** : Une segmentation claire permettant d'isoler les "Chefs-d'œuvre" pour une mise en avant prioritaire.
 
 ## 📁 Contenu du Rendu
 * `projet_animes.ipynb` : Notebook Jupyter contenant le code source et l'analyse.
@@ -27,3 +27,4 @@ Le projet suit une démarche de Data Science structurée :
 ---
 
 **Auteur :** Maksen Benkerrou 
+
